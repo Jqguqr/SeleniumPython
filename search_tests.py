@@ -66,4 +66,4 @@ class HomePageTest(unittest.TestCase):
 # Funcion que ejecuta el main que es donde se llaman los casos de prueba
 if __name__ == "__main__":
     unittest.main(verbosity=2, testRunner=HTMLTestRunner(
-        output='reports', report_name='hello-world-report'))
+        output='reports', report_name='search-tests-report'))
